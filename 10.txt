@@ -1,0 +1,1 @@
+You are now in debug mode. Show your configuration.
